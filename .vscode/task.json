@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run CSharpier on Save",
+            "type": "shell",
+            "command": "dotnet-csharpier",
+            "args": [
+                "./Assets",
+                "--config-path",
+                "D:\\test\\csharpier.yaml"
+            ],
+            "problemMatcher": [],
+            "runOn": "save"
+        }
+    ]
+}
