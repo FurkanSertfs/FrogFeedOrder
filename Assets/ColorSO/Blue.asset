@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 331b4ab4237618246bb96ba4efdf950c, type: 3}
+  m_Name: Blue
+  m_EditorClassIdentifier: 
+  color: 0
+  cellTexture: {fileID: 2800000, guid: e443964a2f6947144a379ab797fd8893, type: 3}
+  frogTexture: {fileID: 2800000, guid: bdf1db28745dbf84e877d90476939ca3, type: 3}
+  grapeTexture: {fileID: 2800000, guid: 3f71c2f4edbdfe6429a81d5b5cc437b3, type: 3}
+  arrowTexture: {fileID: 2800000, guid: e443964a2f6947144a379ab797fd8893, type: 3}
